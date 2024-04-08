@@ -2,7 +2,7 @@ package com.feb22;
 
 import java.util.Scanner;
 
-public class Employee {
+public class Employee{
 
 	public static void main(String[] args) {
 		System.out.println("Welcome to Employee Management System");
@@ -45,9 +45,5 @@ public class Employee {
 			case 6:
 				System.out.println("Exit");
 				break;
-			
 			}
-
-	}
-
 }
