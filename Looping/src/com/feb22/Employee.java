@@ -46,4 +46,6 @@ public class Employee{
 				System.out.println("Exit");
 				break;
 			}
+		}while (choice!=0);
+	}
 }
